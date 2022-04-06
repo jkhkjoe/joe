@@ -1,0 +1,2 @@
+# joe
+Required Modifications  Check when all matches are made and change the Output to “Congratulations.” The theme of the sample game was “Computer Hardware.” Personalize this game by changing the images to follow a theme of your own. Note, you may draw your own images or import images such as clip art or digital photos. Change and use different images for all situations. Only allow the user to select two cards at a time. They should not be able to continue flipping cards. Do not let the user flip a card that has already been matched.
